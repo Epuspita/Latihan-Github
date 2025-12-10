@@ -1,2 +1,4 @@
 # Latihan-Github
-membuat latihan sederhana dengan github
+membuat latihan sederhana dengan github sampai mahir
+- Saya ingin membuat proyek dibidang data analisis
+- saya ingin membuat proyek machine learning 
