@@ -3,6 +3,7 @@ Rencana konten wpu
 *e56
 *framework js
 ^vue
+ ^react
 -stuktur data dasar
 -php framework
 ^^laravel
