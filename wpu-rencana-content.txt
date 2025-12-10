@@ -2,7 +2,10 @@ Rencana konten wpu
 -js
 *e56
 *framework js
+^vue
 -stuktur data dasar
 -php framework
+^^laravel
 -interview
+-python
 
